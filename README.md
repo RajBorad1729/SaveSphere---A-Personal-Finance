@@ -40,13 +40,13 @@
 | Layer         | Tech                                      |
 |---------------|-------------------------------------------|
 | **Frontend**  | Next.js App Router, React, Tailwind CSS   |
-| **UI/UX**     | `shadcn/ui`, Lucide Icons                 |
+| **UI/UX**     | shadcn/ui              |
 | **Backend**   | Next.js API Routes (Server Actions)       |
 | **Database**  | PostgreSQL + Prisma ORM                   |
-| **Auth**      | Clerk                                     |
+| **Auth**      | Clerk, Arcjet                                    |
 | **AI**        | Gemini AI (receipt auto-fill)             |
 | **Finance API**| Yahoo Finance2(Node Js)                      |
-| **Emails**    | Inngest + React Email + Resend            |
+| **Emails**    | Inngest + Resend            |
 | **Security**  | Arcjet                                     |
 
 ---
