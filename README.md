@@ -43,7 +43,7 @@
 | **UI/UX**     | shadcn/ui              |
 | **Backend**   | Next.js API Routes (Server Actions)       |
 | **Database**  | PostgreSQL + Prisma ORM                   |
-| **Auth**      | Clerk, Arcjet                                    |
+| **Auth**      | Clerk                                    |
 | **AI**        | Gemini AI (receipt auto-fill)             |
 | **Finance API**| Yahoo Finance2(Node Js)                      |
 | **Emails**    | Inngest + Resend            |
